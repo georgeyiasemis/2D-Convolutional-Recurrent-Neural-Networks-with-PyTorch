@@ -1,4 +1,4 @@
-# 2D-Convolutional-Recurrent-Neural-Networks-with-PyTorch
+# 2D Convolutional Recurrent Neural Networks with PyTorch
 ## Two dimensional Convolutional Recurrent Neural Networks implemented in PyTorch
 
 The architecture of ```Conv2dLSTMCell``` was inspired by "Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting" 
